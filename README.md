@@ -1,3 +1,3 @@
 # Python_Turtle_Exercises
 
-Some example of the capabilities of the python turtle package
+Some examples of the capabilities of the python turtle package, including a simple random walk algorithm model.
